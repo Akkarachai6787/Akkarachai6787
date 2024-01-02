@@ -11,7 +11,7 @@ Hi 👋 My name is Akkarachai Pawongjit
 *
 
 #### Term-Project
-* Library website | one of the the front-end developers [github](https://github.com/PPHamster/kmutt-library)
+* Library website | one of the front-end developers [github](https://github.com/PPHamster/kmutt-library)
 
 ### Tools and Skills That I Have Used and Learned
 
