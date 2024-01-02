@@ -8,7 +8,7 @@ Hi 👋 My name is Akkarachai Pawongjit
 
 ## Experience
 ### My Mini-Project
-* Ai-Akk's website | UI designer and front-end developer [github](https://github.com/Akkarachai6787/KodangAkk) / [link to website](https://aiakk-s-kodang.web.app/)
+* Ai-Akk's website | UI designer and front-end developer [github](https://github.com/Akkarachai6787/AiAkkKodang) / [link to website](https://aiakk-s-kodang.web.app/)
 
 ### Term-Project
 * Library website | one of the front-end developers [github](https://github.com/PPHamster/kmutt-library)
