@@ -3,8 +3,8 @@ Hi 👋 My name is Akkarachai Pawongjit
 
 ## About me
 * 👨🏻‍🦽 I'm a disabled person.
-* 📖 I'm currently studying for a Bachelor degree in Computer Engineering at KMUTT.
-* 🤩 I'm interested in front-end developer and UX/UI designer
+* 📖 I'm a graduate with a Bachelor's degree in Computer Engineering at KMUTT.
+* 🤩 I'm interested in front-end development and UX/UI design
 
 ## Experience
 ### Term-Project
